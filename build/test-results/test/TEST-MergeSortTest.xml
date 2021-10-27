@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MergeSortTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-27T03:26:38" hostname="Andres-MacBook-Pro.local" time="0.054">
+  <properties/>
+  <testcase name="should validate unsorted integer list" classname="MergeSortTest" time="0.05"/>
+  <testcase name="should validate already integer list sorted" classname="MergeSortTest" time="0.001"/>
+  <testcase name="should validate inversed integer list" classname="MergeSortTest" time="0.001"/>
+  <testcase name="should validate repeated integer list" classname="MergeSortTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
