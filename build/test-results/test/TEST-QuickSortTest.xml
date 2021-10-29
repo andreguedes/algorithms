@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QuickSortTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-29T02:17:16" hostname="Andres-MacBook-Pro.local" time="0.039">
+  <properties/>
+  <testcase name="should validate ordered list" classname="QuickSortTest" time="0.033"/>
+  <testcase name="should validate one item list" classname="QuickSortTest" time="0.002"/>
+  <testcase name="should validate inversed integer list" classname="QuickSortTest" time="0.001"/>
+  <testcase name="should validate repeated integer list" classname="QuickSortTest" time="0.001"/>
+  <testcase name="should validate unsorted list" classname="QuickSortTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
